@@ -1,0 +1,27 @@
+p{
+    display: inline-flex;
+    
+    
+    
+   
+    
+}
+
+label{
+    display: block;
+}
+
+.container{
+    border-bottom: solid black 1px;
+    position: sticky;
+    
+
+    
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+    
+}
